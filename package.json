@@ -1,0 +1,13 @@
+{
+  "name": "printy",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "debug": "~2.2.0",
+    "ipp-printer": "^1.0.0",
+    "node-printer": "^1.0.2"
+  }
+}
