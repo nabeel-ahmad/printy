@@ -2,6 +2,9 @@
   "name": "printy",
   "version": "0.0.0",
   "private": true,
+  "bin": {
+    "printy": "./app.js"
+  },
   "scripts": {
     "start": "node app.js"
   },
